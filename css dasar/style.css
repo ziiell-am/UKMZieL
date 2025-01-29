@@ -24,9 +24,18 @@ li {
   overflow: hidden;
 }
 
+main {
+  background-color: #f4f4f9;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
 section {
   background-color: #f4f4f9;
   margin: 10px;
   padding: 10px;
   border-radius: 10px;
 }
+
+

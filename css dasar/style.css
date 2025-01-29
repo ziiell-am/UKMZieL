@@ -1,0 +1,25 @@
+header {
+  background-color: rgb(32, 101, 192);
+  color: #f4f4f9;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+ul {
+    border: 1px solid #f4f4f9;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+    color: rgb(25, 87, 201);
+}
+
+li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}

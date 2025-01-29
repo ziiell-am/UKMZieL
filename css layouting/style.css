@@ -19,6 +19,6 @@ div {
 div:hover {
     background-color: red;
     transition: all 1s;
-    transform:  scale(2) rotate(45deg) translateY(45px);
+    transform:  scale(2) rotate(45deg) translateY(45px) skew(45deg);
 }
 

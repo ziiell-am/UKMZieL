@@ -1,10 +1,12 @@
 h1 {
     text-align: center;
     color: red;
-    font-size: xx-large
+    font-size: xx-large /* large */
 }
 
 h1:hover {
     color: blue;
+    transform: rotate(45deg) rotateX(-45deg) rotateY(45deg);
+    transition: all 1s;
 }
 

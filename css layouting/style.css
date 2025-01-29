@@ -6,7 +6,19 @@ h1 {
 
 h1:hover {
     color: blue;
-    transform: rotate(45deg) rotateX(-45deg) rotateY(45deg);
+    transform:  scale(100deg);
     transition: all 1s;
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    
+}
+
+div:hover {
+    background-color: red;
+    transition: all 1s;
+    transform:  scale(2) rotate(45deg) translateY(45px);
 }
 

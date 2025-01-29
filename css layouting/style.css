@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-size: xx-large
+}
+
+h1:hover {
+    color: blue;
+}
+
